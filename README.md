@@ -2,6 +2,32 @@
 
 This repository provides reusable API‑led connectivity patterns, integration accelerators, and governance standards used in modernization programs across financial institutions. The assets support the transition from point‑to‑point legacy integrations to structured, scalable, and secure API‑first architectures.
 
+# API Modernization Accelerators
+
+This repository provides reference architectures, patterns, and templates for API-led modernization in banking and financial services.
+
+## Objectives
+
+- Define layered API architecture (Experience, Process, System APIs)
+- Provide reusable patterns for legacy-to-modern migration
+- Standardize governance (versioning, naming, security)
+- Offer OpenAPI-based samples for rapid adoption
+
+## Repository structure
+
+- `architecture/` – Reference architecture and diagrams
+- `patterns/` – Modernization and integration patterns
+- `governance/` – Policies for API lifecycle and security
+- `samples/` – OpenAPI specifications and example APIs
+- `use-cases/` – Applied scenarios in banking and lending
+
+## Target audience
+
+- Enterprise and solution architects  
+- API platform teams  
+- Modernization and integration squads
+
+
 ---
 
 ## Architecture Overview
