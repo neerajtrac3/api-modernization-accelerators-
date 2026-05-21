@@ -1,6 +1,3 @@
-api-modernization-accelerators/
-│
-├── README.md
 ├── architecture/
 │   ├── reference-architecture.md
 │   ├── api-layering.md
